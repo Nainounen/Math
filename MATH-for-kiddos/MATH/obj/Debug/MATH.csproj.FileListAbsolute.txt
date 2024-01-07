@@ -1,0 +1,10 @@
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\bin\Debug\MATH.exe.config
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\bin\Debug\MATH.exe
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\bin\Debug\MATH.pdb
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\obj\Debug\MATH.csproj.AssemblyReference.cache
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\obj\Debug\MATH.Form1.resources
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\obj\Debug\MATH.Properties.Resources.resources
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\obj\Debug\MATH.csproj.GenerateResource.cache
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\obj\Debug\MATH.csproj.CoreCompileInputs.cache
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\obj\Debug\MATH.exe
+C:\Users\meier\Source\Repos\MATH-for-kiddos\MATH\obj\Debug\MATH.pdb
